@@ -1,1 +1,7 @@
-# Database-idata2303
+# Databaser
+
+## Contains:
+
+* Notes from Power Points
+* SQL Exercises
+* SQL Programming
