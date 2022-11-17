@@ -1,7 +1,1 @@
-# Databaser
-
-## Contains:
-
-* Notes from Power Points
-* SQL Exercises
-* SQL Programming
+# Datamodeling and Database course idata2303
